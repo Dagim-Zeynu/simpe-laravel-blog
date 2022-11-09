@@ -12,7 +12,7 @@
 ## Usage <br>
 Setting up your development environment on your local machine: <br>
 ```
-git clone git@github.com:codewithdary/laravel-8-complete-blog.git
+
 cd laravel-8-complete-blog
 change `.env.example` to  `.env`
 composer install
