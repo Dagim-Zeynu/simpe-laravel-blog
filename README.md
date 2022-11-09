@@ -2,9 +2,9 @@
 
 This repository is linked to [this youtube video](https://www.youtube.com/watch?v=HKJDLXsTr8A&t=4710s) where I show you how to create a complete blog in Laravel 8 using best practices.
 
-•	Author: Code With Dary <br>
-•	Twitter: [@codewithdary](https://twitter.com/codewithdary) <br>
-•	Instagram: [@codewithdary](https://www.instagram.com/codewithdary/) <br>
+•	Author: Dagim-Zeynu <br>
+•	Youtube:(https://www.youtube.com/channel/UCgX2rl4E11JUiO-hwqZs2Jw) <br>
+•	Telegram: [@hbns35]
 
 ## Requirements
 •	PHP 7.3 or higher <br>
@@ -15,7 +15,7 @@ Setting up your development environment on your local machine: <br>
 ```
 git clone git@github.com:codewithdary/laravel-8-complete-blog.git
 cd laravel-8-complete-blog
-cp .env.example .env
+change `.env.example` to  `.env`
 composer install
 php artisan key:generate
 php artisan cache:clear && php artisan config:clear
@@ -26,7 +26,7 @@ php artisan serve
 Create a database <br>
 ```
 mysql
-create database laravelblog;
+create database
 exit;
 ```
 
